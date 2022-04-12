@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvsCoders
-- 👀 I’m interested in Flutter and NodeJS
-- 🌱 I’m currently Swift
+- 👀 I’m interested in Flutter | VueJS | ReactJS | NodeJS
+ 
 
 
 <!---
